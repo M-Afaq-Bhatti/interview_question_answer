@@ -1,0 +1,20 @@
+# Python virtual environment
+interview/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment variables
+.env
+.interview
+
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
