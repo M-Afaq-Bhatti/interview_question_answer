@@ -1,0 +1,32 @@
+# LangChain and Core Dependencies
+langchain
+langchain-community
+langchain-core
+
+# Google AI and Cloud Dependencies
+google-generativeai  # For Google's Generative AI models
+google-cloud-aiplatform  # For Vertex AI
+google-cloud-storage  # For Google Cloud Storage
+google-auth  # For authentication
+vertexai  # For Vertex AI specific functionality
+
+# Web Framework
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+
+# PDF Processing
+pypdf
+PyPDF2
+
+# Vector Store
+faiss-cpu
+
+# Jupyter Notebook Support
+ipykernel
+jupyter
+
+# Utility Packages
+aiofiles
+jinja2 
